@@ -1,0 +1,13 @@
+# StudyPulse 📚
+
+StudyPulse is a simple Python-based study tracking and analytics tool.
+
+## Features
+- Add daily study sessions
+- Track total study time
+- Subject-wise analytics
+- Uses SQLite for storage
+
+## How to Run
+```bash
+python main.py
